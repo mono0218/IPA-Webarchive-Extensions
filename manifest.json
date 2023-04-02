@@ -2,6 +2,7 @@
 	"name": "IPA webarchive",
 	"manifest_version": 3,
 	"version": "1.0",
+	"description":"IPAのサイトにアクセスし、404が返された際にウェブアーカイブのサイト(https://warp.ndl.go.jp/info:ndljp/pid/12446699/)にリダイレクトしてくれます。",
 
 	"permissions": [
 		"webRequest"
