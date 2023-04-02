@@ -9,7 +9,8 @@
 	],
 
 	"host_permissions": [
-		"*://*.www.ipa.go.jp/*"
+		"*://*.www.ipa.go.jp/*",
+		"*://*.warp.ndl.go.jp/*"
 	],
 
 	"background" : {
