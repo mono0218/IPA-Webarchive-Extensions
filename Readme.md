@@ -1,5 +1,5 @@
 # IPA-Webarchive-Extensions
-- IPAのサイトにアクセスし、404が返された際に[ウェブアーカイブサイト(Warp)](https://warp.ndl.go.jp/info:ndljp/pid/12446699/){:target="_blank"}にリダイレクトしてくれます。
+- IPAのサイトにアクセスし、404が返された際に![ウェブアーカイブサイト(Warp)](https://warp.ndl.go.jp/info:ndljp/pid/12446699/)にリダイレクトしてくれます。
 
 ## 使い方
 ### chrome拡張機能をそのまま導入する。
@@ -11,7 +11,7 @@
 6. IPAのサイトにアクセスすると、404が返された際にウェブアーカイブのサイトにリダイレクトしてくれます。
 
 ### user scriptを使用する。
-1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja){:target="_blank"}をインストールする
+1. ![Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja)をインストールする
 2. [このリンク](https://github.com/mono0218/IPA-Webarchive-Extensions/releases/download/v1.0.0/ipa.user.js)からダウンロードして有効化する。
 3. IPAのサイトにアクセスすると、404が返された際にウェブアーカイブのサイトにリダイレクトしてくれます
 
