@@ -12,7 +12,7 @@
 
 ### user scriptを使用する。
 1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja)をインストールする
-2. [このリンク](https://github.com/mono0218/IPA-Webarchive-Extensions/releases/download/v1.0.0/ipa.user.js)からダウンロードして有効化する。
+2. [このリンク](https://github.com/mono0218/IPA-Webarchive-Extensions/releases/download/v1.1.0/ipa.user.js)からダウンロードして有効化する。
 3. IPAのサイトにアクセスすると、404が返された際にウェブアーカイブのサイトにリダイレクトしてくれます
 
 ## その他
