@@ -4,7 +4,7 @@
 // @author  mono0218
 // @grant         GM_xmlhttpRequest
 // @match    https://www.ipa.go.jp/*
-// @version  1
+// @version  1.1
 // ==/UserScript==
 
 (function(){
